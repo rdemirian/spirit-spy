@@ -1,0 +1,3 @@
+Spirit Spy is a site that allows you to scan all the popular liquor retailers for the best discounted products.
+
+In progress...
