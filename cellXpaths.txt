@@ -1,0 +1,2 @@
+//*[@id="br-special-items-container"]/div[1]/wow-card/span/bws-product/div/div[2]/div
+//*[@id="br-special-items-container"]/div[3]/wow-card/span/bws-product/div/div[2]/div

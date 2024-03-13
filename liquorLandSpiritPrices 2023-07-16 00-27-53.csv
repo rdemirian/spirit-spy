@@ -1,0 +1,110 @@
+brand,name,salePrice,originalPrice,percentageDiscount,storeName
+Jack Daniels,Tennessee Whiskey 1 Litre,72.0,85,0.15294117647058825,Liquor Land
+Bacardi,Superior Rum 1 Litre,60.0,70,0.1428571428571429,Liquor Land
+Jameson,Irish Whiskey 700mL,52.0,63,0.17460317460317465,Liquor Land
+Smirnoff,Red Vodka 700mL,43.0,47,0.08510638297872342,Liquor Land
+Jack Daniels,Gentleman Jack Tennessee Whiskey 700mL,61.0,77,0.20779220779220775,Liquor Land
+Hennessy,VSOP Cognac 700mL,105.0,118,0.11016949152542377,Liquor Land
+Grant's,Triple Wood Scotch Whisky 700ml,42.0,44,0.045454545454545414,Liquor Land
+Johnnie Walker,Black Label 12YO Scotch Whisky 1 Litre,74.0,92,0.19565217391304346,Liquor Land
+Cointreau,Liqueur 700mL,58.0,68,0.1470588235294118,Liquor Land
+The Balvenie,12YO Doublewood Single Malt Scotch Whisky 700mL,105.0,130,0.1923076923076923,Liquor Land
+Ballantines,12YO Blended Scotch Whisky 700mL,50.0,57,0.1228070175438597,Liquor Land
+Wild Turkey,Kentucky Straight Bourbon Whiskey 700mL,50.0,59,0.15254237288135597,Liquor Land
+Grey Goose,Vodka 700mL,70.0,80,0.125,Liquor Land
+Makers Mark,Kentucky Straight Bourbon Whisky 700mL,56.0,66,0.1515151515151515,Liquor Land
+Bundaberg,UP Rum 700mL,44.0,45,0.022222222222222254,Liquor Land
+St Remy,Authentic VSOP Brandy 700mL,40.0,53,0.24528301886792447,Liquor Land
+The Kraken,Spiced Rum 700mL,57.0,74,0.22972972972972971,Liquor Land
+Jameson,Black Barrel Irish Whiskey 700mL,68.0,93,0.26881720430107525,Liquor Land
+Tia Maria,Coffee Liqueur 700mL,32.0,42,0.23809523809523814,Liquor Land
+Chivas Regal,Extra 13YO Sherry Cask Scotch Whisky 700mL,65.0,82,0.20731707317073167,Liquor Land
+Bombay Sapphire,Gin 700mL,55.0,62,0.11290322580645162,Liquor Land
+Aberlour,12YO Scotch Whisky 700mL,100.0,113,0.11504424778761058,Liquor Land
+Frangelico,Hazelnut Liqueur 700mL,39.0,49,0.20408163265306123,Liquor Land
+Loch Lomond,Original Single Malt Scotch Whisky 700mL,55.0,56,0.017857142857142905,Liquor Land
+Disaronno,Amaretto 700mL,47.0,56,0.1607142857142857,Liquor Land
+Espolon,Tequila Blanco 700mL,58.0,65,0.10769230769230764,Liquor Land
+Glenlivet,12YO Single Malt Scotch Whisky 700mL,78.0,87,0.10344827586206895,Liquor Land
+Drambuie,Scotch Whisky Liqueur 700mL,62.0,73,0.15068493150684936,Liquor Land
+El Sueno,Tequila Silver Bottle 700mL,49.0,60,0.18333333333333335,Liquor Land
+Ardbeg,10YO Single Malt Scotch Whisky 700mL,102.0,122,0.16393442622950816,Liquor Land
+1585,London Dry Gin 1Lt,50.0,59,0.15254237288135597,Liquor Land
+Loch Lomond,Reserve Blended Scotch Whisky 700mL,42.0,45,0.06666666666666665,Liquor Land
+Chambord,Liqueur 500mL,42.0,47,0.1063829787234043,Liquor Land
+Aperol,Aperitivo 700mL,31.0,35,0.11428571428571432,Liquor Land
+Woodford,Reserve Kentucky Straight Bourbon Whiskey 700mL,64.0,74,0.1351351351351351,Liquor Land
+Captain Morgan,Spiced Gold 700mL,44.0,45,0.022222222222222254,Liquor Land
+The Sexton,Single Malt Irish Whiskey 700mL,64.0,75,0.1466666666666666,Liquor Land
+Glen Grant,Arboralis Single Malt Scotch Whisky 700mL,59.0,69,0.14492753623188404,Liquor Land
+Suntory,Midori Melon Liqueur 700mL,42.0,52,0.1923076923076923,Liquor Land
+Jack Daniels,Tennessee Fire 700mL,46.0,60,0.23333333333333328,Liquor Land
+Evan Williams,Kentucky Bourbon Whiskey 700mL,45.0,54,0.16666666666666663,Liquor Land
+Remy Martin,VSOP Cognac 700mL,93.0,104,0.10576923076923073,Liquor Land
+Talisker,10YO Single Malt Scotch Whisky 700mL,98.0,99,0.010101010101010055,Liquor Land
+Pure Origin,Tasmanian Vodka 700mL,50.0,55,0.09090909090909094,Liquor Land
+Patron,Silver Tequila 700mL,88.0,98,0.10204081632653061,Liquor Land
+Dead Mans Fingers,Spiced Rum 700mL,47.0,56,0.1607142857142857,Liquor Land
+Grainshaker,Corn Vodka 700mL,45.0,57,0.21052631578947367,Liquor Land
+Jim Beam,Devils Cut Kentucky Straight Bourbon Whiskey 700mL,53.0,62,0.14516129032258063,Liquor Land
+Mayfair,London Dry Gin 1Lt,65.0,72,0.09722222222222221,Liquor Land
+Ned,Australian Whisky 700ml,56.0,64,0.125,Liquor Land
+St Agnes,VS Brandy 700mL,42.0,50,0.16000000000000003,Liquor Land
+Angostura,Bitters 200mL,21.0,26,0.1923076923076923,Liquor Land
+Master Mary,Pineapple and Ginger Rum 700ml,30.0,38,0.21052631578947367,Liquor Land
+Sierra,Tequila Blanco 1L,65.0,80,0.1875,Liquor Land
+Cougar,Bourbon 700mL,43.0,47,0.08510638297872342,Liquor Land
+Mount Gay,Eclipse Barbados Rum 700mL,49.0,60,0.18333333333333335,Liquor Land
+Captain Morgan,Tropical Mango & Pineapple 700mL,46.0,54,0.14814814814814814,Liquor Land
+Kahlua,Coffee Liqueur 200mL,13.0,22,0.40909090909090906,Liquor Land
+Ciroc,Vodka 750mL,65.0,82,0.20731707317073167,Liquor Land
+Levenside,10YO Single Malt Scotch Whisky 700mL,65.0,70,0.0714285714285714,Liquor Land
+Never Never,Triple Juniper Gin 500mL,55.0,62,0.11290322580645162,Liquor Land
+Baileys,Bailey's Pavlova 700mL,39.0,43,0.09302325581395354,Liquor Land
+Truepenny,Gin 700mL,42.0,50,0.16000000000000003,Liquor Land
+El Sueno,Tequila Gold Bottle 700mL,49.0,60,0.18333333333333335,Liquor Land
+Grand Marnier,Liqueur 500mL,49.0,56,0.125,Liquor Land
+Wild Turkey,American Honey Sting Liqueur 750mL,50.0,56,0.1071428571428571,Liquor Land
+23rd Street,Signature Gin 200mL,20.0,26,0.23076923076923073,Liquor Land
+Wild Turkey,Longbranch Kentucky Bourbon Whiskey 700mL,67.0,77,0.1298701298701299,Liquor Land
+Master Mary,Spiced Gold 700ml,37.0,40,0.07499999999999996,Liquor Land
+Galliano,White Sambuca 500mL,41.0,48,0.14583333333333337,Liquor Land
+Elijah Craig,Small Batch Bourbon 700mL,82.0,85,0.03529411764705881,Liquor Land
+Poltergeist,Unfiltered Gin 700mL,75.0,80,0.0625,Liquor Land
+Gekkeikan,Sake 720mL,32.0,33,0.030303030303030276,Liquor Land
+Starward,Nova Single Malt Australian Whisky 700mL,99.0,115,0.13913043478260867,Liquor Land
+Ketel One,Vodka 700mL,55.0,75,0.2666666666666667,Liquor Land
+Mayfair,Pink Gin 1Lt,65.0,72,0.09722222222222221,Liquor Land
+Crabbies,Yardhead Single Malt Whisky 700mL,55.0,62,0.11290322580645162,Liquor Land
+Native Spirits,Gold Coast Modern Gin By Wildflower 500mL,55.0,60,0.08333333333333337,Liquor Land
+Australian Bitters,250mL,19.0,21,0.09523809523809523,Liquor Land
+Tanqueray,Sevilla 700mL,64.0,69,0.07246376811594202,Liquor Land
+Canadian Club,12YO Classic Blended Whisky 700mL,60.0,74,0.18918918918918914,Liquor Land
+Glen Scotia,Harbour Single Malt Scotch Whisky 700ml,69.0,79,0.12658227848101267,Liquor Land
+78 Degrees,Classic Gin 700mL,67.0,78,0.14102564102564108,Liquor Land
+Native Spirits,Melbourne Classic Gin by Patient Wolf 500mL,50.0,57,0.1228070175438597,Liquor Land
+The Gospel,Solera Rye Whisky 700mL,79.0,87,0.09195402298850575,Liquor Land
+Native Spirits,Sydney Dry Gin by Archie Rose 500mL,50.0,57,0.1228070175438597,Liquor Land
+Kangaroo Island,Wild Gin 700mL,79.0,89,0.1123595505617978,Liquor Land
+VIVIR,Tequila Reposado 700mL,82.0,96,0.14583333333333337,Liquor Land
+Loch Lomond,12 YO Single Malt Scotch Whisky 700mL,84.0,89,0.0561797752808989,Liquor Land
+Forty Spotted,Raspberry & Rose Botanical Spirit 700mL,49.0,60,0.18333333333333335,Liquor Land
+Four Pillars,Bandwagon Rare Dry Non Alcohol 700ml,40.0,50,0.19999999999999996,Liquor Land
+Wildflower,Signature Gin 700mL,74.0,79,0.06329113924050633,Liquor Land
+Noosa,Gin 700mL,64.0,70,0.08571428571428574,Liquor Land
+Native Spirits,McLaren Vale Modern Gin By Never Never 500mL,55.0,60,0.08333333333333337,Liquor Land
+Newy Distillery,Ocean Blue Gin 500mL,49.0,52,0.05769230769230771,Liquor Land
+Antipodes,Pink Gin 700mL,75.0,85,0.11764705882352944,Liquor Land
+23rd Street,Distillery Red Citrus Gin 700mL,72.0,78,0.07692307692307687,Liquor Land
+HG Hemp,Gin 700mL,88.0,91,0.03296703296703296,Liquor Land
+Antipodes,Gin 700mL,78.0,85,0.08235294117647063,Liquor Land
+Newy Distillery,Passionfruit Gin 500ML,50.0,60,0.16666666666666663,Liquor Land
+Wildbrumby,Classic Gin 700mL,77.0,80,0.03749999999999998,Liquor Land
+Native Spirits,Perth Gin By Spirits of Little Things 500mL,55.0,60,0.08333333333333337,Liquor Land
+Antipodes,Espresso Liqueur 200mL,28.0,30,0.06666666666666665,Liquor Land
+Archie Rose,Bone Dry Gin 700ml,85.0,90,0.05555555555555558,Liquor Land
+Husk,Botanic Cane Spirit 700mL,72.0,77,0.06493506493506496,Liquor Land
+Native Spirits,Hobart Modern Gin By 7K 500mL,55.0,60,0.08333333333333337,Liquor Land
+Brix,Gold Rum 700mL,82.0,87,0.05747126436781613,Liquor Land
+Brix,Spiced Rum 700mL,82.0,87,0.05747126436781613,Liquor Land
+Hartshorn,Sheep Whey Gin 500mL,92.0,94,0.021276595744680882,Liquor Land
